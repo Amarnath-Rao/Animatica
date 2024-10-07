@@ -1,6 +1,7 @@
 # Animatica
 
 ## Project Overview:
+![1](https://github.com/user-attachments/assets/caf5745f-52e9-449d-a428-de7887b8b9dd)
 
 As part of our **"Digital Transformation"** initiative, we proudly introduce **Animatica**, a decentralized application (dApp) built on **BitTorrent Chain (BTTC)**, specifically on the **BTTC Dona Testnet**. This project merges blockchain technology with the vibrant world of anime, creating a groundbreaking platform for **anime NFT collectible card battles**. By integrating **zk-proof technology** for enhanced privacy and trust, **Animatica** delivers a new level of engaging and strategic gameplay, where players can own, trade, and battle with their custom-made anime character NFTs in a fully decentralized environment.
 
@@ -9,21 +10,24 @@ Imagine the thrill of card games: battling, trading, and collecting, where each 
 
 Built on the **BTTC Dona Testnet**, **Animatica** offers **fast, low-cost, scalable gameplay**, ensuring seamless blockchain interactions. Players will enjoy full ownership of their assets, with every move and trade recorded transparently and securely on the blockchain. 
 
-### Contract Addresses:
-- Main-> https://testnet.bttcscan.com/address/0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e
+## Contract Addresses:
+- **Main-> https://testnet.bttcscan.com/address/0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e**
 - https://testnet.bttcscan.com/address/0xb42f6f8e531caeb940e2d3b35090367a09cd1bef
 - Testings-> (https://testnet.bttcscan.com/address/0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD)
 - Testings-> (https://testnet.bttcscan.com/tx/0x3ab127ef037724fd230770930eff1545c73f04ade851d9705db1a35c996f7ffb)
 - (**0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e**)
 
-### Why BTTC and Blockchain?
+<br></br>
+![h1](https://github.com/user-attachments/assets/3f64e4df-3e44-4ec1-8b15-3740983fe3d0)
 
+### Why BTTC and Blockchain?
 We selected **BitTorrent Chain (BTTC)** as the core technology because it offers everything a blockchain-based game requires:
 
 - **Fast Transactions**: BTTC ensures that trades, battles, and card uploads happen almost instantly, enhancing the gaming experience.
 - **Low Fees**: Affordable transaction fees let players focus on the fun without worrying about high costs.
 - **Decentralization**: BTTC, powered by **TRON**, guarantees a decentralized experience where players fully control their assets, free from central authorities.
 - **Cross-Chain Compatibility**: With **Fluid Protocol**, the platform enables smooth interactions across TRON, Ethereum, BTTC, and other blockchains, supporting seamless cross-chain transactions.
+![3](https://github.com/user-attachments/assets/47f30a8a-ae9c-41af-a3a2-36947a4a8278)
 
 ### Key Features:
 
@@ -44,11 +48,14 @@ To ensure **cross-chain scalability**, **Animatica** incorporates **Fluid Protoc
 - **Tailwind CSS** for crafting a stunning, responsive user interface
 - **IPFS** for decentralized storage of anime character card uploads
 - **BTTC Dona Testnet** as the main blockchain to drive the dApp
+![image](https://github.com/user-attachments/assets/e737e1f0-e986-40c5-a31f-67bd6b3e6b59)
+![arch](https://github.com/user-attachments/assets/b0933238-c058-4200-98e5-f464200f4758)
 
 ### What the dApp Does:
 **Animatica** provides a decentralized marketplace and gaming arena for **anime-themed collectible card battles**. Users upload custom character cards through **IPFS**, creating NFTs (ERC721 tokens+TRC721) that they can trade, sell, or use in battles. Players compete based on their character’s stats like **Attack**, **Defense**, **Speed**, and **Health**, and every game action is logged transparently on the blockchain, ensuring **fairness and trustless interactions**.
 
 Additionally, a **bidding system** for rare and powerful anime character cards adds a competitive twist. **zk-proof technology** ensures that trades and battles are done with **maximum privacy**, without revealing confidential details.
+![2](https://github.com/user-attachments/assets/7f2f7f2e-07f7-4d0c-aa81-ba73c941d9b8)
 
 ### How We Built It:
 We designed **Animatica** with the user in mind, using **BTTC** and **TRON**’s powerful blockchain features to create an **intuitive, scalable, and secure dApp**. We used **ERC721+TRC721** standards for NFTs, integrated **zk-proof** technology for privacy, and leveraged **Fluid Protocol** to enable cross-chain operations. **IPFS** provides decentralized storage for custom card uploads, ensuring that the platform remains fully decentralized and user-friendly.
@@ -73,17 +80,14 @@ Next, we aim to enhance the platform with more advanced **zk-proof** privacy mea
 **Animatica** is more than just a game—it’s a revolutionary platform where anime fans and blockchain enthusiasts can immerse themselves in a world of **collectible card battles**. Join us on the **BTTC Dona Testnet** and experience the future of decentralized anime gaming. Fully **own, trade, and compete** with your favorite anime characters, and become a part of the next big thing in blockchain-based gaming!
 
 Images:-
+![h4](https://github.com/user-attachments/assets/cd972d87-4056-4958-a089-24f60952a91b)
 
-![236387280-fda12476-48a7-4d36-8730-c2aab4009eb9](https://github.com/Amarnath-Rao/Animania/assets/96937608/8e4df8ea-f1b6-4670-b16c-db01f6768ded)
-
-![236387324-e0bb1051-002f-4dad-af6b-9a44764b0d30](https://github.com/Amarnath-Rao/Animania/assets/96937608/eda143e4-1037-49d1-811e-f55b6aeb034b)
-
-![236387344-fb166d90-8e92-485a-891b-57da533094d4](https://github.com/Amarnath-Rao/Animania/assets/96937608/b258e784-d91f-46ef-9e30-92d6359b32bf)
-
-![236387391-462cd0ea-f728-4488-8d3a-88636410a19b](https://github.com/Amarnath-Rao/Animania/assets/96937608/d794ee42-0b04-4018-8d54-6e73792aef99)
-
-![236387485-9eea5ccc-10d5-4339-b01d-c8be8be2239e](https://github.com/Amarnath-Rao/Animania/assets/96937608/853422d2-d664-41de-b4df-7f6285dace5d)
-
+![h2-3](https://github.com/user-attachments/assets/9d5a48f7-31bd-4347-9525-20ba3b97fb5d)
+![h3](https://github.com/user-attachments/assets/53c36746-b87b-45bb-82fd-eafe7071f366)
+![h2-2](https://github.com/user-attachments/assets/1ae64ab4-3023-488d-a1d1-d5416de3beac)
+![h2-1](https://github.com/user-attachments/assets/5933ad28-09ec-4ff6-bd32-cd3d74f60478)
+![h5](https://github.com/user-attachments/assets/11ae9d1e-9c0b-4627-8df1-6001d2d6b7b7)
+![h6](https://github.com/user-attachments/assets/7acc5d31-c9fe-499b-97f4-0a723a8b9b15)
 
 Default content:-
 
